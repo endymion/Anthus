@@ -19,7 +19,6 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
   - image_path: /assets/images/ai-enabled-process.png
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "AI-enabled process"
     title: "Processes"
     excerpt: "Our team can build processes that coordinate AI models and human input, freeing people to do more useful things."
