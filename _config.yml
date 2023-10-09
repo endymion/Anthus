@@ -19,17 +19,64 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Anthus AI Solutions
+masthead_title: Anthus
+title_separator: "|"
+name: "Ryan Alyn Porter"
 email: info@anthus.com
 repository: "endymion/Anthus"
 description: >- # this means to ignore newlines until "baseurl:"
   We're an experienced serverless solutions lab with a focus on AI use cases for business.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# baseurl: "/Anthus" # the subpath of your site, e.g. /blog
+# url: "https://endymion.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: ryanalynporter
+github_username:  endymion
+permalink: /:categories/:title/
+
+author:
+  name     : "Ryan Porter"
+  avatar   : "/assets/images/bio-photo.jpg"
+  bio      : "Experienced serverless application developer and operator with a focus on AI."
+  location : "Miami Beach, FL"
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ryanalynporter"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/endymion"
+
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/ryanalynporter"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/endymion"
+
+include: ["_pages"]
+breadcrumbs: true
+breadcrumb_home_label : "/"
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "air"
+
+locale: "en-US"
+
 plugins:
   - jekyll-feed
 

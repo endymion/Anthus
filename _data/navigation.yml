@@ -1,0 +1,7 @@
+main:
+  - title: "AI Solutions"
+    url: /solutions
+  - title: "About"
+    url: /about
+  - title: "Blog"
+    url: /blog
