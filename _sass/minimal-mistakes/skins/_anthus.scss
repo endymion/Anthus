@@ -21,11 +21,3 @@ $sans-serif-narrow: 'Cinzel', sans-serif !default;
 $global-font-family: 'Montserrat', sans-serif !default;
 $header-font-family: 'Cinzel', sans-serif !default;
 $caption-font-family: 'Montserrat', serif !default;
-
-.page__footer {
-  color: #fff !important; // override
-}
-
-.page__footer-follow .social-icons .svg-inline--fa {
-  color: inherit;
-}
