@@ -36,7 +36,7 @@ feature_row2:
   - image_path: /assets/images/expert-serverless-devops-innovators.png
     alt: "Expert Serverless DevOps Operators"
     title: "Dependable Innovation"
-    excerpt: 'Discover the power of Anthus, where cutting-edge AI solutions and unwavering reliability meet. Our team crafts <mark>bespoke AI solutions</mark> tailored to your needs with a <mark>foundation of operational excellence</mark>. Experience the perfect blend of innovation and integrity.'
+    excerpt: 'Discover the power of Anthus, where cutting-edge AI solutions and unwavering reliability meet. Our team crafts <mark>bespoke AI solutions</mark> tailored to your needs with a <mark>foundation of operational excellence</mark>. Experience the perfect blend of <mark>innovation and integrity</mark>.'
     url: "/about"
     btn_label: "Discover Anthus"
     btn_class: "btn--primary"
