@@ -28,25 +28,25 @@ feature_row:
   - image_path: /assets/images/ai-agent.png
     alt: "AI agent"
     title: "Conversational AI Agents"
-    excerpt: "Elevate your system's efficiency by integrating a conversational AI co-pilot, enabling dialogues with your business operations."
+    excerpt: "Elevate your efficiency by integrating a conversational AI co-pilot, enabling dialogues with your business operations."
     url: "#test-link"
     btn_label: "Meet Your Bot"
     btn_class: "btn--primary"
 feature_row2:
-  - image_path: /assets/images/expert-serverless-devops-operators.png
+  - image_path: /assets/images/expert-serverless-devops-innovators.png
     alt: "Expert Serverless DevOps Operators"
     title: "Dependable Innovation"
-    excerpt: 'Discover the power of Anthus, where cutting-edge AI solutions and unwavering reliability meet. Our team crafts bespoke AI solutions tailored to your needs, with a foundation of operational excellence. Experience the perfect blend of innovation and integrity, with Anthus.'
-    url: "#test-link"
+    excerpt: 'Discover the power of Anthus, where cutting-edge AI solutions and unwavering reliability meet. Our team crafts bespoke AI solutions tailored to your needs with a foundation of operational excellence. Experience the perfect blend of innovation and integrity.'
+    url: "/about"
     btn_label: "Discover Anthus"
     btn_class: "btn--primary"
 feature_row3:
-  - image_path: /assets/images/featured.png
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Meet Your Bot"
+  - image_path: /assets/images/expert-serverless-devops-operators.png
+    alt: "Managed Service Providers for Serverless AI Workloads"
+    title: "Reliable Operations"
+    excerpt: 'We transform the traditional development model by not just building your digital assets, but running them for you—responsibly, reliably, and affordably. With a foundation in strong DevOps practices enhanced by serverless technology and artificial intelligence, we go beyond mere development. We are your long-term partners in this digital journey, ensuring continuous operation and maintenance of the ITSM components, cloud APIs, web and mobile applications we craft. This partnership allows you to focus solely on propelling your business forward.'
+    url: "/about"
+    btn_label: "Sleep Better"
     btn_class: "btn--primary"
 ---
 
@@ -55,3 +55,5 @@ feature_row3:
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="right" %}
+
+{% include feature_row id="feature_row3" type="left" %}
