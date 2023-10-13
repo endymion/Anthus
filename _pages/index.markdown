@@ -36,7 +36,7 @@ feature_row2:
   - image_path: /assets/images/expert-serverless-devops-innovators.png
     alt: "Expert Serverless DevOps Operators"
     title: "Dependable Innovation"
-    excerpt: 'Discover the power of Anthus, where cutting-edge AI solutions and unwavering reliability meet. Our team crafts bespoke AI solutions tailored to your needs with a foundation of operational excellence. Experience the perfect blend of innovation and integrity.'
+    excerpt: 'Discover the power of Anthus, where cutting-edge AI solutions and unwavering reliability meet. Our team crafts <mark>bespoke AI solutions</mark> tailored to your needs with a <mark>foundation of operational excellence</mark>. Experience the perfect blend of innovation and integrity.'
     url: "/about"
     btn_label: "Discover Anthus"
     btn_class: "btn--primary"
@@ -44,7 +44,7 @@ feature_row3:
   - image_path: /assets/images/expert-serverless-devops-operators.png
     alt: "Managed Service Providers for Serverless AI Workloads"
     title: "Reliable Operations"
-    excerpt: 'We transform the traditional development model by not just building your digital assets, but running them for you—responsibly, reliably, and affordably. With a foundation in strong DevOps practices enhanced by serverless technology and artificial intelligence, we go beyond mere development. We are your long-term partners in this digital journey, ensuring continuous operation and maintenance of the ITSM components, cloud APIs, web and mobile applications we craft. This partnership allows you to focus solely on propelling your business forward.'
+    excerpt: 'We transform the traditional development model by not just building your digital assets, but running them for you -- <mark>responsibly, reliably, and affordably</mark>. With a foundation in strong DevOps practices enhanced by <mark>serverless technology and artificial intelligence</mark>, we go beyond mere development. We are your long-term partners in this digital journey, ensuring <mark>continuous operation and maintenance</mark> of the ITSM components, cloud APIs, web and mobile applications we craft. This partnership allows you to focus solely on propelling your business forward.'
     url: "/about"
     btn_label: "Sleep Better"
     btn_class: "btn--primary"
