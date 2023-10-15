@@ -7,7 +7,7 @@ header:
   # overlay_filter: "0.5"
   overlay_image: /assets/images/serverless-ai-software-solutions.png
   actions:
-    - url: "/solutions"
+    - url: "/ai-solutions"
 excerpt: "Depend on <mark>veteran DevOps experts</mark> for your bespoke AI workloads."
 feature_row:
   - image_path: assets/images/ai-powered-software-features.png
@@ -35,7 +35,7 @@ feature_row3:
     alt: "Managed Service Providers for Serverless AI Workloads"
     title: "Reliable Operations"
     excerpt: 'We transform the traditional development model by not just building your digital assets, but running them for you -- <mark>responsibly, reliably, and affordably</mark>. With a foundation in strong DevOps practices enhanced by <mark>serverless technology and artificial intelligence</mark>, we go beyond mere development. We are your long-term partners in this digital journey, ensuring <mark>continuous operation and maintenance</mark> of the ITSM components, cloud APIs, web and mobile applications we craft. This partnership allows you to focus solely on propelling your business forward.'
-    url: "/about/#devops-playbooks"
+    url: "/about#devops-playbooks"
     btn_label: "Sleep Better"
     btn_class: "btn--primary"
 ---
