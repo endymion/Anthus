@@ -1,17 +1,64 @@
 ---
 layout: splash
 title: About
-permalink: /about/
+permalink: /about
+tagline: Dependable DevOps team.
+header:
+  image: /assets/images/nightclub-event-tickets.png
 ---
 
 ## About us
 
-Ryan Porter built an event ticket sales system for a <a href="https://en.wikipedia.org/wiki/Kaleidoscope_World_Tour">Tiësto world tour</a> in six weeks in 2009.  That system grew into a business that generated as much as <mark>$64 million per year</mark> for the next 14 years.  Anthus is Ryan and the DevOps team who did it, including a network of contractors.
+![image-right](/assets/images/ryan-porter.png){: .align-right}In 2009, Ryan Porter developed an innovative event ticket sales system for a Tiësto world tour, sparking a business that generated up to $64 million annually for over fourteen years. We came together as a team as the business expanded, and have worked cohesively for more than a decade, safeguarding an impeccable record in reliability and security.
 
-We endured for so long because we operated a reliable system with <n>no significant business interruption and <mark>no major downtime, system impairment, or security incidents</mark>.  We achieved high availability over a decade during continuous development with multiple daily deployments.  We <mark>never took the system down for maintenance</mark>, even during deployments.  We <mark>never got hacked</mark> despite being a <a href="https://twitter.com/RyanAlynPorter/status/890982980721790976">prime target</a>.
+Throughout our journey, we not only integrated various third-party platforms—including Salesforce, Marketo, Salesforce Marketing Cloud, Mailchimp, and Paytronix into our system but also successfully navigated through multiple technological revolutions. From embracing cloud computing to harnessing serverless architectures and deploying artificial intelligence applications, we continuously adapted and innovated while maintaining operational excellence and security. Even amidst rigorous audits from top-tier firms and scrutiny from our parent company, Madison Square Garden Entertainment, our innovative approaches to service management maturity and risk management consistently earned approval.
 
-We grew from a tiny startup team to being <mark>part of a large multinational corporation, <a href="https://taogroup.com/">Tao Group Hospitality</a></mark>, with <mark>zero turnover in the core team</mark>.  We were subjected to dozens and dozens of <mark>audits from all of the top auditing firms</mark>, and close inspection from Madison Square Garden Entertainment when they became our parent company.  The auditors and MSGE all agreed that we know what we're doing and that we correctly managed the risks, or else we couldn't have endured for more than a decade.
+Our endurance over more than fourteen years is a testament to our commitment and capability in preventing business interruptions arising from downtime, software malfunctions, security incidents, or data losses.  The hackers never got us, despite being a prime target.  When a catastrophic failure struck an entire AWS data center, our dedication shone through as we swiftly relocated the entire system to a new data center within hours, ensuring that ticket scanning at nightclubs proceeded without a hitch.  We always kept the revenue flowing.
 
-Our system continuously evolved, adding a data warehouse, new third-party integrations, and integrations with Salesforce, Marketo, many other products, and other corporate workloads.  We steered our system through the <mark>cloud computing revolution, the serverless revolution, and into the AI revolution</mark>, adding an <mark>AI copilot</mark> toward the end.  We responsibly handed off operations to the next team on the way out, with <mark>no business interruption</mark>.
+Now, we bring our depth of experience and technical agility to your projects. What can we develop and operate for you?
 
-Now we can help you do something interesting.  And you can trust us to operate it until the money runs out.
+[Let's Talk](#link){: .btn .btn--primary .btn--large}
+
+## DevOps Playbooks
+
+We operate by a set of playbooks that represent our values.  Over the years, our playbooks have aligned with the six pillars of the AWS Well-Architected Framework:
+
+* Operational Excellence
+  * Perform operations as code
+  * Make frequent, small, reversible changes
+  * Refine operations procedures frequently
+  * Anticipate failure
+  * Learn from all operational failures
+* Security
+  * Implement a strong identity foundation
+  * Enable traceability
+  * Apply security at all layers
+  * Automate security best practices
+  * Protect data in transit and at rest
+  * Keep people away from data
+  * Prepare for security events
+* Reliability
+  * Automatically recover from failure
+  * Test recovery procedures
+  * Scale horizontally to increase aggregate workload availability
+  * Stop guessing capacity
+  * Manage change in automation
+* Performance Effciency
+  * Democratize advanced technologies
+  * Go global in minutes
+  * Use serverless architectures
+  * Experiment more often
+  * Consider mechanical sympathy
+* Cost Optimization
+  * Implement cloud financial management
+  * Adopt a consumption model
+  * Measure overall efficiency
+  * Stop spending money on undifferentiated heavy lifting
+  * Analyze and attribute expenditure
+* Sustainability
+  * Understand your impact
+  * Establish sustainability goals
+  * Maximize utilization
+  * Anticipate and adopt new, more efficient hardware and software offerings
+  * Use managed services
+  * Reduce the downstream impact of your cloud workloads
