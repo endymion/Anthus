@@ -10,10 +10,6 @@ header:
     - url: "/ai-solutions"
 excerpt: "Depend on <mark>veteran DevOps experts</mark> for your bespoke AI workloads."
 feature_row:
-  - image_path: assets/images/ai-powered-software-features.png
-    alt: "AI-powered software features."
-    title: "Tailored AI Features"
-    excerpt: "Infuse <mark>AI-driven capabilities</mark> into your cloud-based apps, mobile applications, or existing systems."
   - image_path: /assets/images/ai-enabled-process.png
     alt: "AI-enabled process"
     title: "Smart Process Automation"
@@ -22,6 +18,10 @@ feature_row:
     alt: "AI agent"
     title: "Conversational AI Agents"
     excerpt: "Elevate your efficiency by integrating a conversational AI co-pilot, enabling <mark>dialogues with your business operations</mark>."
+  - image_path: assets/images/ai-powered-software-features.png
+    alt: "AI-powered software features."
+    title: "Tailored AI Features"
+    excerpt: "Infuse <mark>AI-driven capabilities</mark> into your cloud-based apps, mobile applications, or existing systems."
 feature_row2:
   - image_path: /assets/images/expert-serverless-devops-innovators.png
     alt: "Expert Serverless DevOps Operators"
