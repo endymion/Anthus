@@ -46,11 +46,11 @@ This shift empowers organizations to be more agile and responsive to their softw
 
 ## Society revolutionized: Just-in-time hardware and software
 
-From a broader societal standpoint, the emergence of single-use software applications represents a monumental shift in the tech landscape.  It's not merely a repetition of the shift from capital expenditures (CAPEX) to operational expenditures (OPEX), as seen in cloud computing; it's a leap to the next level.  This shift is about significantly <mark>lowering barriers to entry for technology innovation</mark>, just as we witnessed in the hardware realm.
+From a broader societal standpoint, the emergence of single-use software applications represents a monumental shift in the tech landscape.  It's not merely a repetition of the shift from capital expenditures (CAPEX) to operational expenditures (OPEX), as seen in cloud computing; it's a leap to the next level by eliminating software barriers to entry in addition to the hardware barriers -- leaving no barriers.
 
 Think about how cloud computing democratized access to computing power, allowing smaller players with limited financial resources to access computing capabilities that were once exclusive to major corporations with substantial budgets.  Now, <mark>the same democratization is happening in the software realm</mark>.  Smaller teams, startups, and individuals are gaining the ability to harness AI-driven tools to efficiently drive business value without first obtaining financing to pay for software development.
 
-This profound change has far-reaching societal implications.  It accelerates technological progress by enabling a broader range of innovators to participate.  Smaller teams with limited financing can now tackle ambitious projects that were previously financially out of reach.  This not only transforms society by fostering innovation but also significantly enhances the agility of organizations.  Companies can adapt quickly to seize new opportunities that might have been too costly to pursue in the past.  It's a shift that <mark>empowers everyone to do more</mark>.
+This profound change has far-reaching societal implications.  It accelerates technological progress by enabling a broader range of innovators to participate.  Smaller teams with limited financing can now tackle ambitious projects that were previously financially out of reach.  This will transforms society by significantly enhancing the agility of individuals and organizations.  Companies can adapt quickly to seize new opportunities that might have been too costly to pursue in the past.  It's a shift that <mark>empowers everyone to do more</mark>.
 
 ##  The future of apps:  Do we need them?
 
