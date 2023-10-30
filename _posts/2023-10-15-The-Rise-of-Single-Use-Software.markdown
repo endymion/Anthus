@@ -10,7 +10,7 @@ categories: trends
 related: false
 ---
 
-Imagine a late-night call, an alarm from an order-processing system.  An order in trouble, and you're the one who needs to untangle the mess.  It's a familiar scenario for a DevOps practitioner, but the solution lies in something other than your existing toolset this time.  You require something different -- the ability to massage the data within the order before reprocessing it.  Your organization's toolbox contains tools for order reprocessing but not for this precise task.
+Imagine a late-night call, an alarm from an order-processing system.  An order is in trouble, and you're the one who needs to untangle the mess.  It's a familiar scenario for a DevOps practitioner, but the solution lies in something other than your existing toolset this time.  You require something different -- the ability to massage the data within the order before reprocessing it.  Your organization's toolbox contains tools for order reprocessing but not for this precise task.
 
 No problem, though.  You take a leap of faith and paste code from your existing toolkit into ChatGPT.  In moments, it crafts a bespoke script tailored to the problem at hand.  You <mark>run it once</mark>, post the order, and it does its job flawlessly.  <mark>You'll never use that script again.</mark>  Instead of relying on pre-built tools, you've embraced a new era of just-in-time development with AI.
 
