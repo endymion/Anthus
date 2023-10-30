@@ -48,13 +48,17 @@ This shift empowers organizations to be more agile and responsive to their softw
 
 From a broader societal standpoint, the emergence of single-use software applications represents a monumental shift in the tech landscape.  It's not merely a repetition of the shift from capital expenditures (CAPEX) to operational expenditures (OPEX), as seen in cloud computing; it's a leap to the next level by eliminating software barriers to entry in addition to the hardware barriers -- leaving no barriers.
 
-Think about how cloud computing democratized access to computing power, allowing smaller players with limited financial resources to access computing capabilities that were once exclusive to major corporations with substantial budgets.  Now, <mark>the same democratization is happening in the software realm</mark>.  Smaller teams, startups, and individuals are gaining the ability to harness AI-driven tools to efficiently drive business value without first obtaining financing to pay for software development.
+Think about how cloud computing democratized access to computing power, allowing smaller players with limited financial resources to access computing capabilities that were once exclusive to major corporations with substantial budgets.  Now, <mark>the same democratization is happening in the software realm</mark>.  Smaller teams, startups, and individuals are gaining the ability to harness AI-driven tools to efficiently drive business value without first obtaining financing to pay for software development.  Or to at least do it faster and with less financing.
 
 This profound change has far-reaching societal implications.  It accelerates technological progress by enabling a broader range of innovators to participate.  Smaller teams with limited financing can now tackle ambitious projects that were previously financially out of reach.  This will transforms society by significantly enhancing the agility of individuals and organizations.  Companies can adapt quickly to seize new opportunities that might have been too costly to pursue in the past.  It's a shift that <mark>empowers everyone to do more</mark>.
 
 ##  The future of apps:  Do we need them?
 
-It's worth contemplating a question: Today, computing devices serve as containers for a collection of applications.  In the future, will we even need an operating system with a menu of applications?  <mark>What applications would be worth keeping when computers can solve problems directly, on-demand?</mark>  Why buy or license an app when you can ask the computer to solve the problem for you?  These questions invite us to envision a future where technology adapts to our needs, where software is as dynamic as our imagination, and where the possibilities are limited only by the questions we dare to ask.
+It's worth contemplating a question: Today, computing devices serve as containers for a collection of applications.  In the future, will we even need an operating system with a menu of applications?  <mark>What applications would be worth keeping when computers can solve problems directly, on-demand?</mark>
+
+Why buy or license an app when you can ask the computer to solve the problem for you?  If ChatGPT and it's "Advanced Data Analysis" feature had existed when you learned to use Excel, would you ever have learned to use Excel?
+
+These questions invite us to envision a future where technology adapts to our needs, where software is as dynamic as our imagination, and where the possibilities are limited only by the questions we dare to ask.
 
 ## Conclusion
 
